@@ -50,7 +50,7 @@
 
 - Do a fork.
 - Create a new branch (git checkout -b feature/new feature).
-- Commit changes (git commit -am '.....').
+- Commit changes (git commit -m '.....').
 - Push to new branch (git push origin feature/new feature).
 - Open a Pull Request.
 
